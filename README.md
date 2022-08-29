@@ -12,5 +12,5 @@ input field for the user to type in their temperature,
 dropdown menu or radio button for the user to choose if they are inputting in Celsius, Fahrenheit or Kelvin,
 "Convert" button to trigger the temperature conversion,
 "Clear" button to clear input field,
-Display area for the final converted temperature and unit.
+Display area for the final converted temperature.
 
